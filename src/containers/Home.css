@@ -1,0 +1,19 @@
+.github-logo {
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    place-content: center;
+    /* background-color: blue; */
+    margin-top: 40px; 
+}
+
+.github-image {
+        height : 80px;
+        width: 80px;
+}
+
+.github-searchbar {
+    display: flex;
+    place-content: center;
+}
+

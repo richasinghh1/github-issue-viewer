@@ -1,0 +1,36 @@
+.gitrepo-single-detail{
+    display: flex;
+    flex-direction:row;
+    place-content: space-between;
+    align-items: center;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.gitrepo-star{
+    /* border-style: solid black; */
+    width: 10%;
+    border-bottom: 1px solid black;
+}
+
+.gitrepo-single-detail-count{
+    display: flex;
+    flex-direction: row;
+    /* place-content: space-around; */
+    height: 15vh;
+    border-bottom: 1px solid black;
+    background-color: #F6F8FA;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+.gitrepo-single-detail-table{
+    display: flex;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
